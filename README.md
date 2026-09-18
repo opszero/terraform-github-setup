@@ -1,5 +1,5 @@
 <!-- BEGIN_TF_DOCS -->
-# MrMgr (Github)
+# Github Setup
 
 ```
 provider "github" {
