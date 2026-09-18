@@ -1,4 +1,4 @@
-# MrMgr (Github)
+# Github Setup
 
 ```
 provider "github" {
